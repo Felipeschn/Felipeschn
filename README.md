@@ -1,5 +1,3 @@
-### 👋
-
  - 📫 How to reach me: felipe@lazzid.com.br
  
 <div> 
